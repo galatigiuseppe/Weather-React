@@ -4,7 +4,7 @@ Basic Weather Application built with React. The goal is to play with some Weathe
 
 ![alt text](https://github.com/galatigiuseppe/Weather-React/blob/master/Screen%20Shot%202018-02-19%20at%2011.09.14.png "ScreenShot")
 
-Things learned/practiced: **React**, **ES6**
+Things learned/practiced: **React**, **ES6**, **Redux**
 
 ##Setup
 - `git clone https://github.com/galatigiuseppe/Weather-React.git`
@@ -12,4 +12,4 @@ Things learned/practiced: **React**, **ES6**
 - `npm install`
 - `npm start`
 
-https://github.com/galatigiuseppe/Weather-React/blob/master/Screen%20Shot%202018-02-19%20at%2011.09.14.png
+
